@@ -5,6 +5,7 @@
 */
 
 #define PERMISSIVE_HOLD
+
 #define CHORDAL_HOLD
 
 #define USB_SUSPEND_WAKEUP_DELAY 0
@@ -13,3 +14,6 @@
 
 #define TAPPING_TERM_PER_KEY
 #define RGB_MATRIX_STARTUP_SPD 60
+
+#define CAPS_WORD_ENABLE = yes
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
